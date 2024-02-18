@@ -1,5 +1,5 @@
 # stickersmash
 
-https://docs.expo.dev/tutorial/gestures
+https://docs.expo.dev/tutorial/screenshot/
 
 npx expo start -c
